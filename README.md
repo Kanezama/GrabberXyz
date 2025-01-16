@@ -14,6 +14,8 @@ pkg install python
 git clone https://github.com/Kanezama/GrabberXyz
 python z.py
 ```
+</details open>
+
 <br>
 
 <details open>
@@ -24,7 +26,10 @@ py install -m pip install requests
 Download The Script First
 py z.py
 ```
+</details open>
+
 <br>
+
 <details open>
   <summary><strong> Install Package in Linux </strong></summary>
   
@@ -33,12 +38,14 @@ sudo apt upgrade && apt update
 sudo pip install python
 python z.py
 ```
+</details open>
 
 <br><br>
 
+
 <summary><strong> Indonesian/English </strong></summary>
 
-```
+```php
 Q: Why is there no package installation, bro?,
 
 A: Because when you run this script, it will automatically be installed in cmd, termux and linux.
