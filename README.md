@@ -1,5 +1,5 @@
 # GrabberXyz
-Grabber is Free and Will Update Every Week 
+Grabber Domain is Free and Will Update Every Week 
 
 😎 Cool Grabber
 
