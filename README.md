@@ -59,7 +59,7 @@ A : Karena ketika kamu menjalankan script ini, akan otomatis keinstall package d
 <summary><strong> Contact Me : </strong></summary>
 <br>
 
-[![](https://img.shields.io/static/v1?logo=whatsapp&label=Contact%20Me&message=Kanezama&color=red)](wa.me/+6285695450203)
+[![](https://img.shields.io/static/v1?logo=whatsapp&label=Contact%20Me&message=Kanezama&color=red)](http://wa.me/+6285695450203)
 
-[![](https://img.shields.io/static/v1?logo=telegram&label=Contact%20Me&message=TitanSi_KangWebShell&color=red)](t.me/TitanSi_KangWebShell)
+[![](https://img.shields.io/static/v1?logo=telegram&label=Contact%20Me&message=TitanSi_KangWebShell&color=red)](https://t.me/TitanSi_KangWebShell)
 
